@@ -6,4 +6,4 @@ A collection of interesting problems that I encounter and their solution in Java
   (ii) [Demo on JS Fiddle](https://jsfiddle.net/kirtijalan/6cf7a4ny/1/)
 2. How to find the sum of digits using recursion? 
   (i)  [Solution](https://github.com/kirtijalan/Awesome-DSA/blob/master/SumOfDigitsWithRecursion.js)
-  (ii) [Demo on JS Fiddle](https://jsfiddle.net/kirtijalan/pagh3nr8/)
+  (ii) [Demo on JS Fiddle](https://jsfiddle.net/kirtijalan/pagh3nr8/46/)
